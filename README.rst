@@ -32,6 +32,12 @@ Features
 
 * TODO
 
+- [ ] Resolution
+- [ ] Installation
+- [ ] PEP 582 local packages
+- [ ] Publish
+- [ ] PEP 517 build system
+
 Credits
 -------
 
