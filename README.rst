@@ -20,7 +20,7 @@ pdm
 
 
 
-Python package and dependency manager supporting the latest PEP standards 
+Python package and dependency manager supporting the latest PEP standards
 
 
 * Free software: MIT license
@@ -32,11 +32,20 @@ Features
 
 * TODO
 
-- [ ] Resolution
-- [ ] Installation
-- [ ] PEP 582 local packages
-- [ ] Publish
-- [ ] PEP 517 build system
+-[ ] Dependency Resolution
+-[ ] Lockfile Generation
+-[ ] Package Download
+-[ ] Wheel Processing
+-[ ] Wheel Installation
+-[ ] Metadata Storage
+-[ ] Script Generation
+-[ ] Environment Management
+-[ ] Build System
+-[ ] Caching
+-[ ] Handling Editable Installs
+-[ ] Platform-Specific Considerations
+-[ ] Dependency Groups and Optional Dependencies
+-[ ] Virtual Environment Creation
 
 Credits
 -------
